@@ -1,5 +1,5 @@
 {
-  "name": "kodo-bot-v3",
+  "name": "kodo-bot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
